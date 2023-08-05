@@ -7,7 +7,7 @@ import java.util.Scanner;
  и возвращает введенное значение. Ввод текста вместо числа не должно приводить к падению приложения,
  вместо этого, необходимо повторно запросить у пользователя ввод данных
  */
-public class homework2_1 {
+public class Homework2_1 {
     public static void main(String[] args) {
         float number = getFloat();
         System.out.println("Введенное число: " + number);
